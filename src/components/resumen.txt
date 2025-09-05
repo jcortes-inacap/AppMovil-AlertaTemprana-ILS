@@ -1,0 +1,1 @@
+Aquí debes poner los componentes reutilizables en tus screens.

@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "AppMovil-AlertaTemprana-ILS",
+    "slug": "AppMovil-AlertaTemprana-ILS",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "alertatemprana"
+  }
+}
