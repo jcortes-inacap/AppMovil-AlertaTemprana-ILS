@@ -1,3 +1,6 @@
+npm install
+npx expo install
+npm install --save-dev @types/react-native
 npm i @reduxjs/toolkit react-redux
 npm i expo-router
 npx expo install react-native-screens react-native-safe-area-context
